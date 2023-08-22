@@ -3,9 +3,6 @@
 
 
 ## About me
-<img width="55%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishbeck&show_icons=true&theme=tokyonight" />
-<img width="55%" align="right" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbeck&theme=tokyonight" />
-
 - Flutter magician crafting pixel-perfect mobile dreams.
 - Designing interfaces that dance and dazzle.
 - Weaving Dart spells to conjure code into life.
