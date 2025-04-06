@@ -1,33 +1,19 @@
 <h2 align="center">Hi<img width="24" alt="Github" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/wave.gif?raw=true" /> I am Prakash H</h2>
-<h3 align="center">Flutter and Dart Explorer | Navigating the Future of App Development</h3>
+<h3 align="center">Engineer @ Heart | UI Enthusiast | Builder for Builders</h3>
 
 
-## About me
-- Flutter magician crafting pixel-perfect mobile dreams.
-- Designing interfaces that dance and dazzle.
-- Weaving Dart spells to conjure code into life.
-- Juggling between Android and iOS enchantments.
-- Whispering to Firebase for dynamic app enchantments.
-- Mixing APIs like a potions master for potent functionality.
-- Learning spells from every tech tome I can find.
-- Collaborating on quests for innovation in app realms.
-- Fearless explorer venturing beyond the borders of ordinary UI/UX.
-- Master of code and architect of pixel realms.
+# 💫 About Me:
+Hi, I’m Prakash - A Frontend Engineer passionate about crafting seamless developer experiences, building modular UI systems, and creating products that scale beautifully.<br><br>🛠️ What I Do<br>🧱 Build component libraries and design systems using React, TypeScript & TailwindCSS<br>⚙️ Optimize DX with tools like Storybook, Zustand, Radix UI, and CI pipelines<br>🌐 Deliver Web3 dashboards with wallet integrations (MetaMask, Coinbase, RainbowKit)<br>🧪 Write clean, testable code with Jest, Playwright, and accessibility-first practices<br>📱 Ship responsive, fast UIs across Web + Mobile using React & Next.js<br>🎨 Focus on UI/UX systems that are themeable, composable, and accessible<br><br>🚀 Currently Building<br>- A React UI kit inspired by Shadcn, with full theme support and Storybook docs<br>- Reusable dashboard templates for Validator Nodes and Web3 Admin Panels<br>- Projects to sharpen my TypeScript & frontend architecture skills (following Total TypeScript)
 
-## Languages and Tools
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/dart.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/gcp.svg" alt="google cloud project" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/bash.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android_studio" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a></p>
 
-## Connect with me
-<a href="https://www.linkedin.com/in/prakash080/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"/></a>
-<a href="mailto:hprakash080@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-alt="email" height="30"/></a>
-<a href="https://stackoverflow.com/users/22427238/prakash-h" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" height="30"/></a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash080) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22427238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hprakash080@gmail.com) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prakash080&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prakash080&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash080&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
