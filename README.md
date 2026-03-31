@@ -109,14 +109,6 @@ Frontend dashboards for validator node ecosystems with wallet integrations and m
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Prakash080&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Prakash080&theme=github_dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash080&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## ⚡ Fun Fact
 
 I enjoy turning complex product ideas into clean, usable interfaces — especially where **UX, engineering, and performance** intersect.
